@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.512a10a7.chunk.css",
-    "main.js": "/static/js/main.a0969ff2.chunk.js",
+    "main.css": "/static/css/main.659dfcf3.chunk.css",
+    "main.js": "/static/js/main.32a7f61a.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.5201846b.js",
     "static/css/2.81834559.chunk.css": "/static/css/2.81834559.chunk.css",
-    "static/js/2.8ac86085.chunk.js": "/static/js/2.8ac86085.chunk.js",
+    "static/js/2.8fcecde2.chunk.js": "/static/js/2.8fcecde2.chunk.js",
     "static/js/3.784b0396.chunk.js": "/static/js/3.784b0396.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.8ac86085.chunk.js.LICENSE.txt": "/static/js/2.8ac86085.chunk.js.LICENSE.txt",
+    "static/js/2.8fcecde2.chunk.js.LICENSE.txt": "/static/js/2.8fcecde2.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/poppins-latin-900italic.babad407.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.5201846b.js",
     "static/css/2.81834559.chunk.css",
-    "static/js/2.8ac86085.chunk.js",
-    "static/css/main.512a10a7.chunk.css",
-    "static/js/main.a0969ff2.chunk.js"
+    "static/js/2.8fcecde2.chunk.js",
+    "static/css/main.659dfcf3.chunk.css",
+    "static/js/main.32a7f61a.chunk.js"
   ]
 }
